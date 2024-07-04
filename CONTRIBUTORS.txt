@@ -1,0 +1,25 @@
+# Contributors
+
+## Project Lead
+- Alik Paranyan (https://github.com/alyaparan)
+  - Cyber Security Specialist and Cyber Criminal Enthusiast
+
+## About the Project
+The Amass GUI project is a user-friendly graphical interface for the OWASP Amass tool, designed to make subdomain enumeration and network mapping more accessible. The GUI provides tabs for both Amass Intel and Amass Enum functionalities, allowing users to easily input parameters and run the Amass commands directly from the interface. The project aims to simplify the use of Amass for security researchers and enthusiasts, streamlining the process of gathering and analyzing domain-related information.
+
+## Key Features
+- Intuitive graphical interface for OWASP Amass
+- Support for both Intel and Enum functionalities
+- Easy input of domain, IP ranges, ASNs, CIDRs, and more
+- Options to include or exclude specific data sources
+- Capability to browse and select configuration files and output directories
+- Real-time display of command outputs
+
+## Contributions
+This project is open for contributions. If you have any suggestions, improvements, or bug fixes, feel free to create a pull request or open an issue on GitHub. 
+
+### Contributors
+- [Contributor 1](https://github.com/alyaparan)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
