@@ -55,17 +55,19 @@ A graphical user interface (GUI) for OWASP Amass, developed by Alik Paranyan. Th
 
 ## Contributing
 
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
+- **Code of Conduct**: Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing.
+- **Contributing Guidelines**: Read the [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Developer
+## Contact
+
+For questions or concerns, you can contact the project creator at:
+- Website: [alikparanyan.com](http://www.alikparanyan.com)
+- Email: [mail@alikparanyan.com](mailto:mail@alikparanyan.com)
+- Personal Gmail: [alikparanyan@gmail.com](mailto:alikparanyan@gmail.com)
 
 **Alik Paranyan**  
 Cyber Security Specialist and Cyber Criminal Enthusiast
