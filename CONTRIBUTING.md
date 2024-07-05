@@ -1,4 +1,4 @@
-# Contributing to Dnsenum GUI
+# Contributing to Amass GUI
 
 Welcome to Dnsenum GUI! We're excited to have you contribute. Before getting started, please take a moment to review our contribution guidelines.
 
@@ -37,4 +37,4 @@ If you have any questions or need further assistance, you can reach out to us at
 - **Email**: [mail@alikparanyan.com](mailto:mail@alikparanyan.com)
 - **Personal Gmail**: [alikparanyan@gmail.com](mailto:alikparanyan@gmail.com)
 
-We appreciate your interest in contributing to Dnsenum GUI!
+We appreciate your interest in contributing to Amass GUI!
