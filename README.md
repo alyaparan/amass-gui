@@ -1,4 +1,5 @@
-# Amass GUI - v1.0.1
+# Amass GUI
+## Version 1.0.0
 
 A graphical user interface (GUI) for OWASP Amass, developed by Alik Paranyan. This tool provides an easy-to-use interface for conducting network reconnaissance and information gathering using Amass.
 
